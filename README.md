@@ -203,3 +203,18 @@ A demo resist image for ICCAD13 is stored in `demo/resist/iccad13`:
 
 
 
+If you find TorchResist useful for your work, please cite our paper:
+
+```
+@inproceedings{wang2025torchresist,
+  title={TorchResist: open-source differentiable resist simulator},
+  author={Wang, Zixiao and Zhou, Jieya and Zheng, Su and Yin, Shuo and Liang, Kaichao and Hu, Shoubo and Chen, Xiao and Yu, Bei},
+  booktitle={DTCO and Computational Patterning IV},
+  volume={13425},
+  pages={397--405},
+  year={2025},
+  organization={SPIE}
+}
+```
+
+
