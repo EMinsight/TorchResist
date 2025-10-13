@@ -203,7 +203,7 @@ A demo resist image for ICCAD13 is stored in `demo/resist/iccad13`:
 
 
 
-If you find TorchResist useful for your work, please cite our paper:
+If TorchResist contributes to your research, we would appreciate it if you cite our paper:
 
 ```
 @inproceedings{wang2025torchresist,
